@@ -1,0 +1,7 @@
+int idade = 15;
+
+boolean eu_tomei_cafe = true;
+
+double preco_da_laranja = 5.50;
+double preco_da_uva = 2.75;
+double somaDosPrecos = preco_da_laranja + preco_da_uva;  
